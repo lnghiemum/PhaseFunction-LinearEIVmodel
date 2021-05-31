@@ -1,4 +1,4 @@
-# Phase Function Estimation of Linear Errors-in-variables models
+# Phase function estimation of linear errors-in-variables models
 
 MATLAB code implementing the phase function method for estimating linear errors-in-variables models. 
  
